@@ -531,7 +531,7 @@ fzone:
   #
   termsAndCondtions:
     input1: '<p class="system-message-body">I agree to the
-        <a class="terms-and-conditions-link" href="https://s3-us-west-2.amazonaws.com/marchmania-uploads/images/pdf/rules-terms.pdf" target="_blank">
+        <a class="terms-and-conditions-link" href="https://s3-us-west-2.amazonaws.com/pokerpalace-mm-uploads/images/pdf/rules-terms.pdf" target="_blank">
           terms and conditions.
         </a>
       </p>'
@@ -669,4 +669,4 @@ system:
   session:
     timeout: '<h1 class="text-center mb-3">REFRESHING YOUR EXPERIENCE</h1>
       <p class="text-center mb-0">Please wait for a few moments while the latest updates are applied to your account.</p>
-      <div class="spinner text-center"><img class="img-fluid" src="https://s3-us-west-2.amazonaws.com/marchmania-uploads/images/basketball-load-spinner.svg" /></div>'
+      <div class="spinner text-center"><img class="img-fluid" src="https://s3-us-west-2.amazonaws.com/pokerpalace-mm-uploads/images/basketball-load-spinner.svg" /></div>'
