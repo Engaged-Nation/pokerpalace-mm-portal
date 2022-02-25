@@ -2,13 +2,13 @@
 /**
  * Contains RoboFile
  *
- * @package marchmania
+ * @package pokerpalace-mm
  */
 
 /**
  * @author Joshua Copeland <josh@engagednation.com>
  * @author Matthew Kosolofski <matthew.kosolofski@engagednation.com>
- * @package marchmania
+ * @package pokerpalace-mm
  */
 class RoboFile extends \Robo\Tasks
 {
